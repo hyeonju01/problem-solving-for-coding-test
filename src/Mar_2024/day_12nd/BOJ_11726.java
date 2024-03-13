@@ -1,4 +1,4 @@
-package Archive.Mar_2024.day_12nd;
+package Mar_2024.day_12nd;
 
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package Archive.Mar_2024.day_6th;
+package Mar_2024.day_6th;
 
 import java.io.BufferedReader;
 import java.io.IOException;
